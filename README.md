@@ -2,7 +2,7 @@
 
 ### SQL project to analyze online music store data
 
-### This project is for beginners and will teach how to analyze the music playlist database. SQL helps the store understand its business growth by answering simple questions. 
+#### This project is for beginners and will teach how to analyze the music playlist database. SQL helps the store understand its business growth by answering simple questions. 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Database and Tools
